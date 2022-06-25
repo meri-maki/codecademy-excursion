@@ -1,5 +1,5 @@
 * {
-    font-family: Verdana, Arial, sans-serif;
+    font-family: Verdana, sans-serif;
     text-align: center;
   }
   
@@ -28,13 +28,13 @@
   }
    
    
-  a {
+  .download a {
     text-decoration: underline;
     color: aquamarine;
     font-size: 16px;
   }
 
   footer {
-    text-align: right;
+    text-align: right !important;
     color: grey;
   }
